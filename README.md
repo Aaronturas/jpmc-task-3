@@ -33,6 +33,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:[jpmc3.webm](https://user-images.githubusercontent.com/91685385/229257809-919d4732-750f-4ca0-9eac-41811304850a.webm)
 
+## Result
+![jpmc3](https://user-images.githubusercontent.com/91685385/229258375-fd4b7a7b-d8c2-4c18-9a09-9b5447308f59.png)
+
 ## Notes
 
 - Make sure GIT is setup eg.(username & email)
